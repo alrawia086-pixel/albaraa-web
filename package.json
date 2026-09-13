@@ -1,0 +1,13 @@
+{
+  "name": "albaraa-company-system",
+  "version": "1.0.0",
+  "description": "Al-Baraa Company Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  }
+}

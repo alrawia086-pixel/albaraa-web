@@ -1,0 +1,12 @@
+{
+  "customers": [],
+  "suppliers": [],
+  "drivers": [],
+  "vehicles": [],
+  "employees": [],
+  "invoices": [],
+  "purchases": [],
+  "expenses": [],
+  "customerPayments": [],
+  "supplierPayments": []
+}
